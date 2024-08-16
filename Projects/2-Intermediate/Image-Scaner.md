@@ -15,7 +15,7 @@ Create an android and ios app to find phone numbers, email and website links ava
 ## Bonus features
 
 -   [ ] Provide an option to add tags for each search results.
--   [ ] Add search funtionality based on tags
+-   [ ] Add search functionality based on tags
 -   [ ] Add login and sync the results across multiple devices.
 
 ## Useful links and resources
