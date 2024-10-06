@@ -72,5 +72,5 @@ Here are a few example projects that have similar functionality to your **Stack 
 - **[Algorithm Visualizer](https://algorithm-visualizer.org/)**  
   A platform that visualizes algorithms and data structures, including stacks. It’s a well-designed tool that showcases the use of stack operations in solving different algorithms.
 
-- **[Stack Data Structure Visualizer (CodePen)](https://rishav123raj.github.io/StackVisualizer/)**  
+- **[Stack Data Structure Visualizer](https://rishav123raj.github.io/StackVisualizer/)**  
   A simple visualizer for stack operations using JavaScript and basic HTML/CSS. This is a basic implementation, and you can expand it further with more interactive features.
