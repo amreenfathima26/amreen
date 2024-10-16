@@ -1,32 +1,31 @@
-# Application Name
+# Real-Time Video Calling App
 
-**Tier:** Add corresponding tier (1-Beginner, 2-Intermediate, 3-Advanced)
+**Tier:** 3-Advanced
 
-Add a clear description of the application and its main features.
-Answer the following questions:
+Have you ever wondered how the Skype App works or how Google Meet happens? This is a great project to add in your resume and to stand out from the croud.
 
--   "What is the purpose of this application?"
--   "Are there any resources needed in order to complete the project?" - If yes, be sure to add it.
+You will basically develop a web application that allows users to communicate with each other via video call.
+
+But How to make this Application?
+
+The Answer is simple - WebRTC. A Tool that is used to create real-time video call communcations.
 
 ## User Stories
 
--   [ ] User can ... first user story
--   [ ] User can ... second user story
--   [ ] User can ... third user story
--   [ ] User can ... fourth user story
--   [ ] User can ... fifth user story
--   etc...
+-   [ ] User can create a room for video call.
+-   [ ] User then share the room Id to other user
+-   [ ] User can add to the room using that room ID.
+-   [ ] User can allow access to camera and microphone and can communicate with other.
 
 ## Bonus features
 
--   [ ] User can ... first bonus feature
--   [ ] User can ... second bonus feature
--   etc...
+-   [ ] User can allow multiple people to join and a conference can be made.
+-   [ ] User can add whiteboard feature and user can write and share screen.
 
 ## Useful links and resources
 
-Add useful links and resources corresponding to this project.
+Learn About WebRTC [here](https://arpanghoshal3.medium.com/webrtc-basic-concepts-and-creating-a-simple-video-call-app-1460fc9ef17)
 
 ## Example projects
 
-Add one or more examples of projects that have similar functionality to this application. This will act as a developer guide.
+Applications like Zoom , Google Meet and Skype etc.
